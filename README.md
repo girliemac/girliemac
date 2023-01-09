@@ -15,10 +15,10 @@
 
 ## Tech Talks
 
-A list of my talks on YouTube on [girliemac.com](https://girliemac.com/presentations/)
+A list of my talks: [gist](https://gist.github.com/girliemac/6e650bb6d4e21b7e599da6e71b1b14de#file-conferences-md)
 
 ## Articles and Publications
 
-- Articles on [girliemac.com](https://girliemac.com)
-- Articles on [Dev.to](https://dev.to/girlie_mac)
-- Lists of articles and publications on [gist](https://gist.github.com/girliemac/6e650bb6d4e21b7e599da6e71b1b14de)
+- Lists of articles and publications: [gist](https://gist.github.com/girliemac/6e650bb6d4e21b7e599da6e71b1b14de)
+- Technical blog/articles on [girliemac.com](https://girliemac.com)
+- Technical blog/articles on [Dev.to](https://dev.to/girlie_mac)
